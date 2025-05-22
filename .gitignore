@@ -2,3 +2,4 @@ tot
 node_modules
 .idea
 .env
+.gitignore
